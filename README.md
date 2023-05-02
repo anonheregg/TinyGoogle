@@ -17,4 +17,4 @@ Point out mistakes in the program to improve the overall thing!
 3.Final ranking part of the program that choose the related things in the internet(internet.txt file) and result it as the outputs to user.
 
 # RUN in your machine:
-To run in your machine just get the whole folder and run that source file named="algo.cpp"
+To run in your machine just get the whole folder and run that source file named="algo.cpp" or you could just run that bat file(algo.bat) to run the whole thing
