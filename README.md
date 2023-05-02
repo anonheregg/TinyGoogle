@@ -1,6 +1,7 @@
 # TinyGoogle
 
-#ABSTRACT: A high level implementaion of the Google search algorithm.
+#ABSTRACT: 
+A high level implementaion of the Google search algorithm.
 
 #DESCRIPTION:
 Alright,I have implemented the whole process that google does to bring results for all our search queries,i mean starting very first from bots surfing where google bots(programs) surfs through the webpages and index them and forms a library of index with tags for the whole internet.
