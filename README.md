@@ -16,5 +16,5 @@ Point out mistakes in the program to improve the overall thing!
 2.program to determine which segement the user search query belongs to.
 3.Final ranking part of the program that choose the related things in the internet(internet.txt file) and result it as the outputs to user.
 
-# RUNN in your machine:
+# RUN in your machine:
 To run in your machine just get the whole folder and run that source file named="algo.cpp"
