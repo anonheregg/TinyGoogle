@@ -11,6 +11,8 @@ Will soon add a detailed article regarding this so that we could  as a team come
 Other details about this implementation will be explained in a detailed post:)
 Point out mistakes in the program to improve the overall thing!
 
+Here is the blog : [Click here](https://guhanarul.github.io/TinyGoogle/) 
+
 # Architecture of the whole thing:
 1.Scroll bots that takes the txt file(internet.txt) and index them as a set of keys sepearted content.
 2.program to determine which segement the user search query belongs to.
